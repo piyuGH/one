@@ -39,7 +39,6 @@ else
 fi
 
 #Appointment time
-#echo -e "\nWhat time would you like to schedule your $SERVICE_NAME appointment?"
 echo -e "\nWhat time would you like your $SERVICE_NAME, $CUSTOMER_NAME?"
 read SERVICE_TIME
 
